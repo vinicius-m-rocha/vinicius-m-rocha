@@ -26,9 +26,11 @@ Sou um Engenheiro de Software focado no ecossistema **.NET**, com sólida experi
 ---
 
 ## 📈 Estatísticas do GitHub
-![Estatísticas do Vinícius](https://github-readme-stats.vercel.app/api?username=vinicius-m-rocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-m-rocha&layout=compact&theme=dark)
 
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-m-rocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-m-rocha&layout=compact&theme=dark" />
+</p>
 ---
 
 ## 📫 Vamos nos conectar?
