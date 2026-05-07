@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou o Vinícius Rocha! 👋
 
-<!--
-**vinicius-m-rocha/vinicius-m-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engenheiro de Software | Especialista em .NET & Microsserviços 🚀
 
-Here are some ideas to get you started:
+Sou um Engenheiro de Software focado no ecossistema **.NET**, com sólida experiência no desenvolvimento de sistemas escaláveis em arquitetura de **Microsserviços**. Minha missão é entregar soluções de alta qualidade técnica que estejam perfeitamente alinhadas às regras de negócio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack Principal & Competências
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | .NET (Core/6/8), C#, Entity Framework, Dapper, Web APIs, gRPC |
+| **Arquitetura** | Clean Architecture, DDD, CQRS, SOLID, Microsserviços |
+| **Cloud & DevOps** | Azure, Kubernetes (AKS), Docker, Terraform, Azure Service Bus |
+| **Frontend** | React, Vue.js, Angular, React Native |
+| **Dados** | SQL Server, CosmosDB, Redis |
+
+---
+
+## 🎯 O que eu trago para o time
+- **Visão Arquitetural:** Construção de sistemas resilientes e escaláveis.
+- **Expertise Cloud:** Ambientes containerizados e mensageria para alta disponibilidade.
+- **Liderança Técnica:** Atuação no desenho de soluções do zero e mentoria técnica para o time.
+
+---
+
+## 📈 Estatísticas do GitHub
+![Estatísticas do Vinícius](https://github-readme-stats.vercel.app/api?username=vinicius-m-rocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-m-rocha&layout=compact&theme=dark)
+
+---
+
+## 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusm-rocha/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.mrocha.dev@gmail.com)
+
+---
+*“Garantindo que a tecnologia seja o motor para as necessidades do negócio.”*
